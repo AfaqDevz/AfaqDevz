@@ -25,13 +25,18 @@
 ###
 
 <div align="center">
-  <img height="170" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif"  />
+  <img height="250" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AfaqxDev/AfaqxDev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/afaqdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/afaqdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
 ###
