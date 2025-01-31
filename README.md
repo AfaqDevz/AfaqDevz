@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
+  <img style="border-radius: 15px;" height="250" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"  />
 </div>
 
 ###
@@ -12,8 +12,6 @@
 <h4 align="center">Hey there! I'm a MERN full-stack developer passionate about building immersive and efficient web applications. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, React.js, Next.js, React Native, Expo, Node.js, Express.js, and MongoDB. I love crafting user-friendly experiences and optimizing performance to make the web a better place. Let's build something amazing together!</h4>
 
 ###
-
-<hr>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -48,6 +46,8 @@
 </div>
 
 ###
+
+<hr/>
 
 <h2 align="center">Let's connect!</h2>
 
