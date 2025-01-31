@@ -49,11 +49,7 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif"  />
-</div>
-
-###
+<h2 align="center">Let's connect!</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/afaqdev" target="_blank">
