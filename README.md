@@ -1,15 +1,10 @@
 <div align="center">
-  <img height="300" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsv2pxc2ocho6qa4xlq95.gif"  />
+  <img height="300" src="[[https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsv2pxc2ocho6qa4xlq95.gif](https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif)](https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif)"  />
 </div>
 
 ###
 
-<h1 align="center">👋 Hi, I'm AfaqDev!</h1>
-<h2 align="center">MERN full-stack Developer</h2>
-
-###
-
-<h4 align="center">Hey there! I'm a MERN full-stack developer passionate about building immersive and efficient web applications. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, React.js, Next.js, React Native, Expo, Node.js, Express.js, and MongoDB. I love crafting user-friendly experiences and optimizing performance to make the web a better place. Let's build something amazing together!</h4>
+<h1 align="center">Hey! I'm <Afaq/></h1>
 
 ###
 
@@ -59,5 +54,13 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
