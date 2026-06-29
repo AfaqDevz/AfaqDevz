@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="300" src="[[https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsv2pxc2ocho6qa4xlq95.gif](https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif)](https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif)"  />
+  <img height="300" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hey! I'm <Afaq/></h1>
+<h1 align="center">Hey! I'm <span><Afaq/><span/></h1>
 
 ###
 
