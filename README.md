@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey! I'm <span><Afaq/><span/></h1>
+<h1 align="center">Hey! I'm Afaq!</h1>
 
 ###
 
