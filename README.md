@@ -42,8 +42,6 @@
 
 ###
 
-<h2 align="center">Let's connect!</h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/afaqdev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
